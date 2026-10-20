@@ -9,3 +9,6 @@ To generate and render outputs:
 ```
 python generate.py
 ```
+
+Some generated molecules...
+![Generated molecules](samples.png)
